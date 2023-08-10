@@ -1,2 +1,2 @@
 # 🧙 Simon-Game 🧙
-This game is made as a project of Web Development Course of Angela Yu. The game requires you to press the buttons in the exact same order to pass the levels one by one. You can play the game here: https://emrekaanusta.github.io/Simon-Game/
+This game is made as a project of Web Development Course of Angela Yu. As the levels escalate, so does the intensity. Glistening buttons light up the screen in their unique shades of red, green, yellow, and blue. Your task is clear – replicate the sequence by tapping the buttons in the exact same order. Success is your guide to unlocking new levels and advancing further into the heart-pounding gameplay. You can play the game here: https://emrekaanusta.github.io/Simon-Game/
